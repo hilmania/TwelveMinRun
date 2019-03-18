@@ -1,0 +1,5 @@
+<layout id="MainLayout" background="Graphics.COLOR_TRANSPARENT">
+    <label id="IdCountdownTimer" x="center" y="(dc.getHeight() / 6) - (Graphics.getFontHeight(Graphics.FONT_SMALL) / 2)" font="Graphics.FONT_SMALL" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="LapExcess" x="center" y="center" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="DistTotalHR" x="center" y="5 * (dc.getHeight() / 6) - (Graphics.getFontHeight(Graphics.FONT_SMALL) / 2)" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" />    
+</layout>
