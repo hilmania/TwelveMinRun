@@ -3,7 +3,8 @@ using Toybox.WatchUi;
 class TwelveMinRunDelegate extends WatchUi.BehaviorDelegate {
 
 	var mParentView;
-
+	var session = null;
+	
     function initialize(view) {
         BehaviorDelegate.initialize();
         mParentView = view;
