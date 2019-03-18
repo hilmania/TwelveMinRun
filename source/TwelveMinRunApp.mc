@@ -12,6 +12,7 @@ class TwelveMinRunApp extends Application.AppBase {
     }
 
     function onStart(state) {
+    	Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
     }
 
     function onStop(state) {
@@ -20,6 +21,9 @@ class TwelveMinRunApp extends Application.AppBase {
     		mTimerView.setBackgroundEvent();
     	}
     	Toybox.System.println(mProperties);
+    	
+    	mTimerView.stopRecording();
+    	Position.enableLocationEvents(Position.LOCATION_DISABLE, method(:onPosition));
     }
 
     function onBackgroundData(data){
@@ -28,6 +32,9 @@ class TwelveMinRunApp extends Application.AppBase {
     	} else {
     		mBackgroundData = data;
     	}
+    }
+    
+    function onPosition(info) {
     }
     
     function getInitialView() {
@@ -39,17 +46,17 @@ class TwelveMinRunApp extends Application.AppBase {
 	function getServiceDelegate(){
 		return [new BackgroundTimerServiceDelegate()];
 	}
-	
-	function objectStoreGet(key, defaultValue) {
-		var value = Application.getApp().getProperty(key);
-		if((value == null) && (defaultValue != null)) {
-			value = defaultValue;
-			Application.getApp().setProperty(key, value);
-		}
-		return value;
-	}
-	
-	function objectStorePut(key, value) {
+}
+
+function objectStoreGet(key, defaultValue) {
+	var value = Application.getApp().getProperty(key);
+	if((value == null) && (defaultValue != null)) {
+		value = defaultValue;
 		Application.getApp().setProperty(key, value);
 	}
+	return value;
+}
+	
+function objectStorePut(key, value) {
+	Application.getApp().setProperty(key, value);
 }

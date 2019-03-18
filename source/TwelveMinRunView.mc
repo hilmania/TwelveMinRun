@@ -5,6 +5,8 @@ using Toybox.Time;
 using Toybox.Timer;
 using Toybox.Background;
 using Toybox.Sensor;
+using Toybox.Activity;
+using Toybox.ActivityRecording;
 
 const TIMER_DURATION_KEY = 0;
 const TIMER_START_TIME_KEY = 1;
@@ -18,6 +20,7 @@ class TwelveMinRunView extends WatchUi.View {
     var string_HR;
     var string_distance;
     var string_timer;
+    var activity_info;
     var mTimerDuration;
     var mTimerStartTime;
     var mTimerPauseTime;
@@ -26,6 +29,9 @@ class TwelveMinRunView extends WatchUi.View {
 
     function initialize(backgroundRan) {
     	View.initialize();
+    	Sensor.setEnabledSensors ( [Sensor.SENSOR_HEARTRATE] );
+    	Sensor.enableSensorEvents( method(:onSnsr) );
+    	string_HR = "---bpm";
     	
     	if(backgroundRan == null) {
     		mTimerDuration = objectStoreGet(TIMER_DURATION_KEY, TIMER_DURATION_DEFAULT);
@@ -43,6 +49,17 @@ class TwelveMinRunView extends WatchUi.View {
     		mUpdateTimer.start(method(:requestUpdate), 1000, true);
     	}
    
+    }
+    
+    function stopRecording() {
+        if( Toybox has :ActivityRecording ) {
+            if( session != null && session.isRecording() ) {
+                session.stop();
+                session.save();
+                session = null;
+                WatchUi.requestUpdate();
+            }
+        }
     }
 
     function onLayout(dc) {
@@ -91,17 +108,33 @@ class TwelveMinRunView extends WatchUi.View {
         minutes = timerValue / 60;
 
         timerString = minutes + ":" + seconds.format("%02d");
+        
+        activity_info = Activity.getActivityInfo();
+        string_distance = activity_info.elapsedDistance;
 
         dc.setColor(textColor, Graphics.COLOR_BLACK);
         dc.clear();
         dc.drawText(
             dc.getWidth()/2,
-            dc.getHeight()/2,
-            Graphics.FONT_NUMBER_THAI_HOT,
+            (dc.getHeight()/2) - 30,
+            Graphics.FONT_MEDIUM,
             timerString,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
         );
-    	
+        dc.drawText(
+        	dc.getWidth()/2,
+            (dc.getHeight()/2),
+            Graphics.FONT_MEDIUM,
+            string_HR,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
+        );
+        dc.drawText(
+        	dc.getWidth()/2,
+            (dc.getHeight()/2) + 30,
+            Graphics.FONT_MEDIUM,
+            string_distance,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
+        );
     }
     
     function startStopTimer() {
@@ -179,6 +212,12 @@ class TwelveMinRunView extends WatchUi.View {
         }
 
         WatchUi.requestUpdate();
+    }
+    
+    function onDistance(info) {
+    	var Distance = info;
+    	
+    	WatchUi.requestUpdate();
     }
     
     function onReceive(args) {
