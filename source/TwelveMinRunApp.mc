@@ -6,6 +6,7 @@ class TwelveMinRunApp extends Application.AppBase {
 	
 	var mTimerView;
 	var mBackgroundData;
+	var mInitialLocation;
 
     function initialize() {
         AppBase.initialize();
@@ -35,6 +36,9 @@ class TwelveMinRunApp extends Application.AppBase {
     }
     
     function onPosition(info) {
+    	var mInitialLocation = info.position.toDegrees();
+   		objectStorePut(3, mInitialLocation[0]);
+   		objectStorePut(4, mInitialLocation[1]);
     }
     
     function getInitialView() {
