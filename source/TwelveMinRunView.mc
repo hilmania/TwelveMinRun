@@ -84,6 +84,7 @@ class TwelveMinRunView extends WatchUi.View {
     	var minutes;
     	var seconds;
     	var textColor = Graphics.COLOR_WHITE;
+    	var distance;
     	
     	elapsed = 0;
     	if(mTimerStartTime != null) {
@@ -111,28 +112,32 @@ class TwelveMinRunView extends WatchUi.View {
         
         activity_info = Activity.getActivityInfo();
         string_distance = activity_info.elapsedDistance;
-
+        if (string_distance == null) {
+        	string_distance = 0;
+        }
+		distance = string_distance.format("%d") + " m";
+		
         dc.setColor(textColor, Graphics.COLOR_BLACK);
         dc.clear();
         dc.drawText(
             dc.getWidth()/2,
-            (dc.getHeight()/2) - 30,
-            Graphics.FONT_MEDIUM,
+            (dc.getHeight()/2) - 50,
+            Graphics.FONT_LARGE,
             timerString,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
         );
         dc.drawText(
         	dc.getWidth()/2,
             (dc.getHeight()/2),
-            Graphics.FONT_MEDIUM,
+            Graphics.FONT_LARGE,
             string_HR,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
         );
         dc.drawText(
         	dc.getWidth()/2,
-            (dc.getHeight()/2) + 30,
-            Graphics.FONT_MEDIUM,
-            string_distance,
+            (dc.getHeight()/2) + 50,
+            Graphics.FONT_LARGE,
+            distance,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
         );
     }
