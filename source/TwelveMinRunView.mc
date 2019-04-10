@@ -31,7 +31,7 @@ class TwelveMinRunView extends WatchUi.View {
     	View.initialize();
     	Sensor.setEnabledSensors ( [Sensor.SENSOR_HEARTRATE] );
     	Sensor.enableSensorEvents( method(:onSnsr) );
-    	string_HR = "---bpm";
+    	string_HR = "000";
     	
     	if(backgroundRan == null) {
     		mTimerDuration = objectStoreGet(TIMER_DURATION_KEY, TIMER_DURATION_DEFAULT);
@@ -113,31 +113,47 @@ class TwelveMinRunView extends WatchUi.View {
         activity_info = Activity.getActivityInfo();
         string_distance = activity_info.elapsedDistance;
         if (string_distance == null) {
-        	string_distance = 0;
+        	string_distance = 8888;
         }
-		distance = string_distance.format("%d") + " m";
+		distance = string_distance.format("%d");
 		
         dc.setColor(textColor, Graphics.COLOR_BLACK);
         dc.clear();
+        
+        
         dc.drawText(
             dc.getWidth()/2,
-            (dc.getHeight()/2) - 50,
-            Graphics.FONT_LARGE,
+            (dc.getHeight()/2) - 75,
+            Graphics.FONT_SYSTEM_NUMBER_HOT,
             timerString,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
         );
         dc.drawText(
         	dc.getWidth()/2,
-            (dc.getHeight()/2),
+            (dc.getHeight()/2) - 10,
+            Graphics.FONT_SYSTEM_NUMBER_HOT,
+            distance,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
+        );
+        dc.drawText(
+            dc.getWidth()/2 + 80,
+            (dc.getHeight()/2) - 10,
             Graphics.FONT_LARGE,
-            string_HR,
+            "m",
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
         );
         dc.drawText(
         	dc.getWidth()/2,
             (dc.getHeight()/2) + 50,
+            Graphics.FONT_SYSTEM_NUMBER_HOT,
+            string_HR,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
+        );
+        dc.drawText(
+            dc.getWidth()/2 + 80,
+            (dc.getHeight()/2) + 50,
             Graphics.FONT_LARGE,
-            distance,
+            "bpm",
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
         );
     }
@@ -210,10 +226,10 @@ class TwelveMinRunView extends WatchUi.View {
         var HR = sensor_info.heartRate;
         var bucket;
         if( sensor_info.heartRate != null ) {
-            string_HR = HR.toString() + "bpm";
+            string_HR = HR.toString();
         }
         else {
-            string_HR = "---bpm";
+            string_HR = "000";
         }
 
         WatchUi.requestUpdate();
