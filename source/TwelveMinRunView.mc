@@ -31,7 +31,7 @@ class TwelveMinRunView extends WatchUi.View {
     	View.initialize();
     	Sensor.setEnabledSensors ( [Sensor.SENSOR_HEARTRATE] );
     	Sensor.enableSensorEvents( method(:onSnsr) );
-    	string_HR = "000";
+    	string_HR = "0";
     	
     	if(backgroundRan == null) {
     		mTimerDuration = objectStoreGet(TIMER_DURATION_KEY, TIMER_DURATION_DEFAULT);
@@ -113,7 +113,7 @@ class TwelveMinRunView extends WatchUi.View {
         activity_info = Activity.getActivityInfo();
         string_distance = activity_info.elapsedDistance;
         if (string_distance == null) {
-        	string_distance = 8888;
+        	string_distance = 0;
         }
 		distance = string_distance.format("%d");
 		
@@ -171,6 +171,8 @@ class TwelveMinRunView extends WatchUi.View {
                 mTimerPauseTime = now;
                 mUpdateTimer.stop();
                 Position.enableLocationEvents(Position.LOCATION_DISABLE, method(:onPosition));
+                stopRecording();
+                Sensor.unregisterSensorDataListener();               
                 WatchUi.requestUpdate();
             } else if( mTimerPauseTime - mTimerStartTime < mTimerDuration ) {
                 mTimerStartTime += (now - mTimerPauseTime);
