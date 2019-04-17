@@ -1,5 +1,7 @@
 using Toybox.Application;
 using Toybox.WatchUi;
+using Toybox.Application.Storage;
+
 
 (:background)
 class TwelveMinRunApp extends Application.AppBase {
@@ -13,7 +15,7 @@ class TwelveMinRunApp extends Application.AppBase {
     }
 
     function onStart(state) {
-    	Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
+    	//Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
     }
 
     function onStop(state) {
@@ -24,7 +26,7 @@ class TwelveMinRunApp extends Application.AppBase {
     	Toybox.System.println(mProperties);
     	
     	mTimerView.stopRecording();
-    	Position.enableLocationEvents(Position.LOCATION_DISABLE, method(:onPosition));
+    	//Position.enableLocationEvents(Position.LOCATION_DISABLE, method(:onPosition));
     }
 
     function onBackgroundData(data){

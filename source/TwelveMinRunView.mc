@@ -164,15 +164,20 @@ class TwelveMinRunView extends WatchUi.View {
         if(mTimerStartTime == null) {
             mTimerStartTime = now;
             mUpdateTimer.start(method(:requestUpdate), 1000, true);
+            Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
+            
         } else {
             if(mTimerPauseTime == null) {
                 mTimerPauseTime = now;
                 mUpdateTimer.stop();
+                Position.enableLocationEvents(Position.LOCATION_DISABLE, method(:onPosition));
                 WatchUi.requestUpdate();
             } else if( mTimerPauseTime - mTimerStartTime < mTimerDuration ) {
                 mTimerStartTime += (now - mTimerPauseTime);
                 mTimerPauseTime = null;
                 mUpdateTimer.start(method(:requestUpdate), 1000, true);
+            } else {
+            	resetTimer();
             }
         }
     }
@@ -239,6 +244,12 @@ class TwelveMinRunView extends WatchUi.View {
     	var Distance = info;
     	
     	WatchUi.requestUpdate();
+    }
+    
+     function onPosition(info) {
+    	var mInitialLocation = info.position.toDegrees();
+   		objectStorePut(3, mInitialLocation[0]);
+   		objectStorePut(4, mInitialLocation[1]);
     }
     
     function onReceive(args) {

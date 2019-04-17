@@ -1,325 +1,379 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="3" lineNum="11" pc="268435456" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="3" lineNum="12" pc="268435460" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="4" lineNum="15" pc="268435479" symbol="onStart"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="4" lineNum="16" pc="268435483" symbol="onStart"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="19" pc="268435532" symbol="onStop"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="20" pc="268435536" symbol="onStop"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="21" pc="268435547" symbol="onStop"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="22" pc="268435565" symbol="onStop"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="24" pc="268435586" symbol="onStop"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="26" pc="268435618" symbol="onStop"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="27" pc="268435636" symbol="onStop"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="30" pc="268435685" symbol="onBackgroundData"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="31" pc="268435689" symbol="onBackgroundData"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="32" pc="268435700" symbol="onBackgroundData"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="34" pc="268435723" symbol="onBackgroundData"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="38" pc="268435734" symbol="onPosition"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="39" pc="268435738" symbol="onPosition"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="40" pc="268435757" symbol="onPosition"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="41" pc="268435782" symbol="onPosition"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="44" pc="268435808" symbol="getInitialView"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="45" pc="268435812" symbol="getInitialView"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="46" pc="268435850" symbol="getInitialView"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="47" pc="268435868" symbol="getInitialView"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="9" lineNum="50" pc="268435930" symbol="getServiceDelegate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="9" lineNum="51" pc="268435934" symbol="getServiceDelegate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="55" pc="268436100" symbol="objectStoreGet"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="56" pc="268436112" symbol="objectStoreGet"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="57" pc="268436140" symbol="objectStoreGet"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="58" pc="268436157" symbol="objectStoreGet"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="59" pc="268436161" symbol="objectStoreGet"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="61" pc="268436193" symbol="objectStoreGet"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="11" lineNum="64" pc="268436197" symbol="objectStorePut"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="11" lineNum="65" pc="268436209" symbol="objectStorePut"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="13" lineNum="9" pc="268436239" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="13" lineNum="10" pc="268436243" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="13" lineNum="11" pc="268436261" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="14" pc="268436272" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="15" pc="268436276" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="16" pc="268436294" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="17" pc="268436311" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="18" pc="268436350" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="19" pc="268436416" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="20" pc="268436434" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="22" pc="268436453" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="23" pc="268436489" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="24" pc="268436507" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="25" pc="268436525" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="26" pc="268436534" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="14" lineNum="29" pc="268436556" symbol="onSelect"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="15" lineNum="32" pc="268436560" symbol="onBack"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="15" lineNum="33" pc="268436564" symbol="onBack"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="18" lineNum="7" pc="268435972" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="18" lineNum="8" pc="268435976" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="19" lineNum="11" pc="268435995" symbol="onTemporalEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="19" lineNum="12" pc="268435999" symbol="onTemporalEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="19" lineNum="13" pc="268436020" symbol="onTemporalEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="30" pc="268436583" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="31" pc="268436587" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="32" pc="268436605" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="33" pc="268436647" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="34" pc="268436679" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="36" pc="268436692" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="37" pc="268436699" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="38" pc="268436734" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="39" pc="268436762" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="41" pc="268436793" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="42" pc="268436809" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="43" pc="268436818" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="46" pc="268436827" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="48" pc="268436861" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="21" lineNum="49" pc="268436890" symbol="initialize"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="22" lineNum="54" pc="268436935" symbol="stopRecording"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="22" lineNum="55" pc="268436939" symbol="stopRecording"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="22" lineNum="56" pc="268436956" symbol="stopRecording"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="22" lineNum="57" pc="268436992" symbol="stopRecording"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="22" lineNum="58" pc="268437010" symbol="stopRecording"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="22" lineNum="59" pc="268437028" symbol="stopRecording"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="22" lineNum="60" pc="268437037" symbol="stopRecording"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="23" lineNum="65" pc="268437060" symbol="onLayout"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="23" lineNum="66" pc="268437064" symbol="onLayout"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="23" lineNum="67" pc="268437101" symbol="onLayout"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="70" pc="268437136" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="81" pc="268437140" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="82" pc="268437140" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="83" pc="268437140" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="84" pc="268437140" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="85" pc="268437140" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="86" pc="268437140" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="87" pc="268437154" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="89" pc="268437154" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="90" pc="268437161" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="91" pc="268437174" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="92" pc="268437187" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="93" pc="268437201" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="95" pc="268437223" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="98" pc="268437258" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="99" pc="268437272" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="100" pc="268437282" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="101" pc="268437296" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="102" pc="268437328" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="106" pc="268437352" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="108" pc="268437365" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="109" pc="268437375" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="111" pc="268437385" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="113" pc="268437412" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="114" pc="268437435" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="115" pc="268437457" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="116" pc="268437470" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="118" pc="268437486" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="120" pc="268437510" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="121" pc="268437536" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="124" pc="268437548" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="131" pc="268437639" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="138" pc="268437730" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="145" pc="268437830" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="24" lineNum="152" pc="268437927" symbol="onUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="161" pc="268438028" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="162" pc="268438032" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="164" pc="268438058" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="165" pc="268438071" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="166" pc="268438081" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="168" pc="268438125" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="169" pc="268438138" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="170" pc="268438148" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="171" pc="268438166" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="172" pc="268438185" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="173" pc="268438214" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="174" pc="268438239" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="25" lineNum="175" pc="268438248" symbol="startStopTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="26" lineNum="180" pc="268438293" symbol="resetTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="26" lineNum="181" pc="268438297" symbol="resetTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="26" lineNum="182" pc="268438310" symbol="resetTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="26" lineNum="183" pc="268438319" symbol="resetTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="26" lineNum="184" pc="268438328" symbol="resetTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="26" lineNum="185" pc="268438344" symbol="resetTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="26" lineNum="187" pc="268438350" symbol="resetTimer"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="27" lineNum="190" pc="268438354" symbol="saveProperties"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="27" lineNum="191" pc="268438358" symbol="saveProperties"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="27" lineNum="192" pc="268438386" symbol="saveProperties"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="27" lineNum="193" pc="268438414" symbol="saveProperties"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="28" lineNum="196" pc="268438443" symbol="setBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="28" lineNum="197" pc="268438447" symbol="setBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="28" lineNum="198" pc="268438476" symbol="setBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="28" lineNum="199" pc="268438512" symbol="setBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="28" lineNum="200" pc="268438559" symbol="setBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="28" lineNum="201" pc="268438559" symbol="setBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="28" lineNum="202" pc="268438596" symbol="setBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="29" lineNum="209" pc="268438658" symbol="deleteBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="29" lineNum="210" pc="268438662" symbol="deleteBackgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="30" lineNum="213" pc="268438679" symbol="backgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="30" lineNum="214" pc="268438683" symbol="backgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="30" lineNum="215" pc="268438699" symbol="backgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="30" lineNum="216" pc="268438708" symbol="backgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="30" lineNum="217" pc="268438717" symbol="backgroundEvent"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="31" lineNum="220" pc="268438734" symbol="requestUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="31" lineNum="221" pc="268438738" symbol="requestUpdate"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="32" lineNum="224" pc="268438755" symbol="onSnsr"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="32" lineNum="226" pc="268438759" symbol="onSnsr"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="32" lineNum="227" pc="268438769" symbol="onSnsr"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="32" lineNum="228" pc="268438769" symbol="onSnsr"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="32" lineNum="229" pc="268438782" symbol="onSnsr"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="32" lineNum="232" pc="268438804" symbol="onSnsr"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="32" lineNum="235" pc="268438817" symbol="onSnsr"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="33" lineNum="238" pc="268438834" symbol="onDistance"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="33" lineNum="239" pc="268438838" symbol="onDistance"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="33" lineNum="241" pc="268438842" symbol="onDistance"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="244" pc="268438859" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="245" pc="268438863" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="246" pc="268438883" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="248" pc="268438896" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="249" pc="268438910" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="250" pc="268438923" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="251" pc="268438936" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="252" pc="268438960" symbol="onReceive"/>
-        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="34" lineNum="255" pc="268439047" symbol="onReceive"/>
-        <entry filename="Rez" id="40" lineNum="16" pc="268439064" symbol="initialize"/>
-        <entry filename="Rez" id="40" lineNum="17" pc="268439068" symbol="initialize"/>
-        <entry filename="Rez" id="40" lineNum="18" pc="268439086" symbol="initialize"/>
-        <entry filename="Rez" id="40" lineNum="19" pc="268439138" symbol="initialize"/>
-        <entry filename="Rez" id="43" lineNum="36" pc="268439191" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="40" pc="268439203" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="41" pc="268439405" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="42" pc="268439438" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="43" pc="268439490" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="44" pc="268439641" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="45" pc="268439674" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="46" pc="268439726" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="47" pc="268439772" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="48" pc="268439960" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="49" pc="268439993" symbol="MainLayout"/>
-        <entry filename="Rez" id="43" lineNum="52" pc="268440045" symbol="MainLayout"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="3" lineNum="13" pc="268435456" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="3" lineNum="14" pc="268435460" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="4" lineNum="17" pc="268435479" symbol="onStart"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="21" pc="268435484" symbol="onStop"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="22" pc="268435488" symbol="onStop"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="23" pc="268435499" symbol="onStop"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="24" pc="268435517" symbol="onStop"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="26" pc="268435538" symbol="onStop"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="5" lineNum="28" pc="268435570" symbol="onStop"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="32" pc="268435589" symbol="onBackgroundData"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="33" pc="268435593" symbol="onBackgroundData"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="34" pc="268435604" symbol="onBackgroundData"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="6" lineNum="36" pc="268435627" symbol="onBackgroundData"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="40" pc="268435638" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="41" pc="268435642" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="42" pc="268435661" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="7" lineNum="43" pc="268435686" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="46" pc="268435712" symbol="getInitialView"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="47" pc="268435716" symbol="getInitialView"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="48" pc="268435754" symbol="getInitialView"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="8" lineNum="49" pc="268435772" symbol="getInitialView"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="9" lineNum="52" pc="268435834" symbol="getServiceDelegate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="9" lineNum="53" pc="268435838" symbol="getServiceDelegate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="57" pc="268436004" symbol="objectStoreGet"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="58" pc="268436016" symbol="objectStoreGet"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="59" pc="268436044" symbol="objectStoreGet"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="60" pc="268436061" symbol="objectStoreGet"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="61" pc="268436065" symbol="objectStoreGet"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="10" lineNum="63" pc="268436097" symbol="objectStoreGet"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="11" lineNum="66" pc="268436101" symbol="objectStorePut"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunApp.mc" id="11" lineNum="67" pc="268436113" symbol="objectStorePut"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="13" lineNum="13" pc="268436143" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="13" lineNum="14" pc="268436147" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="14" lineNum="19" pc="268436170" symbol="onKey"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="14" lineNum="20" pc="268436174" symbol="onKey"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="14" lineNum="21" pc="268436189" symbol="onKey"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="14" lineNum="22" pc="268436216" symbol="onKey"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="15" lineNum="27" pc="268436307" symbol="onTap"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="15" lineNum="28" pc="268436311" symbol="onTap"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="15" lineNum="29" pc="268436326" symbol="onTap"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="17" lineNum="37" pc="268436414" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="17" lineNum="38" pc="268436418" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="18" lineNum="41" pc="268436441" symbol="onTextEntered"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="18" lineNum="42" pc="268436445" symbol="onTextEntered"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="18" lineNum="43" pc="268436470" symbol="onTextEntered"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="19" lineNum="46" pc="268436481" symbol="onCancel"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceDelegate.mc" id="19" lineNum="47" pc="268436485" symbol="onCancel"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="21" lineNum="16" pc="268436499" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="21" lineNum="17" pc="268436503" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="22" lineNum="21" pc="268436526" symbol="onLayout"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="23" lineNum="25" pc="268436531" symbol="onShow"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="24" lineNum="29" pc="268436536" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="24" lineNum="30" pc="268436540" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="24" lineNum="31" pc="268436576" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="24" lineNum="32" pc="268436588" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="24" lineNum="33" pc="268436624" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="24" lineNum="34" pc="268436639" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="24" lineNum="36" pc="268436733" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/DistanceView.mc" id="25" lineNum="42" pc="268436809" symbol="onHide"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="27" lineNum="9" pc="268436814" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="27" lineNum="10" pc="268436818" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="27" lineNum="11" pc="268436836" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="14" pc="268436847" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="15" pc="268436851" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="16" pc="268436869" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="17" pc="268436886" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="18" pc="268436925" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="19" pc="268436991" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="20" pc="268437009" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="22" pc="268437028" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="23" pc="268437064" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="24" pc="268437082" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="25" pc="268437100" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="26" pc="268437109" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="28" lineNum="29" pc="268437131" symbol="onSelect"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="29" lineNum="32" pc="268437135" symbol="onBack"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunDelegate.mc" id="29" lineNum="33" pc="268437139" symbol="onBack"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="32" lineNum="7" pc="268435876" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="32" lineNum="8" pc="268435880" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="33" lineNum="11" pc="268435899" symbol="onTemporalEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="33" lineNum="12" pc="268435903" symbol="onTemporalEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/BackgroundTimerServiceDelegate.mc" id="33" lineNum="13" pc="268435924" symbol="onTemporalEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="30" pc="268437158" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="31" pc="268437162" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="32" pc="268437180" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="33" pc="268437222" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="34" pc="268437254" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="36" pc="268437267" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="37" pc="268437274" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="38" pc="268437309" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="39" pc="268437337" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="41" pc="268437368" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="42" pc="268437384" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="43" pc="268437393" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="46" pc="268437402" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="48" pc="268437436" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="35" lineNum="49" pc="268437465" symbol="initialize"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="36" lineNum="54" pc="268437510" symbol="stopRecording"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="36" lineNum="55" pc="268437514" symbol="stopRecording"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="36" lineNum="56" pc="268437531" symbol="stopRecording"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="36" lineNum="57" pc="268437567" symbol="stopRecording"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="36" lineNum="58" pc="268437585" symbol="stopRecording"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="36" lineNum="59" pc="268437603" symbol="stopRecording"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="36" lineNum="60" pc="268437612" symbol="stopRecording"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="37" lineNum="65" pc="268437635" symbol="onLayout"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="37" lineNum="66" pc="268437639" symbol="onLayout"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="37" lineNum="67" pc="268437676" symbol="onLayout"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="70" pc="268437711" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="81" pc="268437715" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="82" pc="268437715" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="83" pc="268437715" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="84" pc="268437715" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="85" pc="268437715" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="86" pc="268437715" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="87" pc="268437729" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="89" pc="268437729" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="90" pc="268437736" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="91" pc="268437749" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="92" pc="268437762" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="93" pc="268437776" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="95" pc="268437798" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="98" pc="268437833" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="99" pc="268437847" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="100" pc="268437857" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="101" pc="268437871" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="102" pc="268437903" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="106" pc="268437927" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="108" pc="268437940" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="109" pc="268437950" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="111" pc="268437960" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="113" pc="268437987" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="114" pc="268438010" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="115" pc="268438032" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="116" pc="268438045" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="118" pc="268438061" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="120" pc="268438085" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="121" pc="268438111" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="124" pc="268438123" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="131" pc="268438214" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="138" pc="268438305" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="145" pc="268438405" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="38" lineNum="152" pc="268438502" symbol="onUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="161" pc="268438603" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="162" pc="268438607" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="164" pc="268438633" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="165" pc="268438646" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="166" pc="268438656" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="167" pc="268438697" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="170" pc="268438748" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="171" pc="268438761" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="172" pc="268438771" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="173" pc="268438789" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="174" pc="268438837" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="175" pc="268438856" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="176" pc="268438885" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="177" pc="268438910" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="178" pc="268438919" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="39" lineNum="180" pc="268438963" symbol="startStopTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="40" lineNum="185" pc="268438976" symbol="resetTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="40" lineNum="186" pc="268438980" symbol="resetTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="40" lineNum="187" pc="268438993" symbol="resetTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="40" lineNum="188" pc="268439002" symbol="resetTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="40" lineNum="189" pc="268439011" symbol="resetTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="40" lineNum="190" pc="268439027" symbol="resetTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="40" lineNum="192" pc="268439033" symbol="resetTimer"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="41" lineNum="195" pc="268439037" symbol="saveProperties"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="41" lineNum="196" pc="268439041" symbol="saveProperties"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="41" lineNum="197" pc="268439069" symbol="saveProperties"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="41" lineNum="198" pc="268439097" symbol="saveProperties"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="42" lineNum="201" pc="268439126" symbol="setBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="42" lineNum="202" pc="268439130" symbol="setBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="42" lineNum="203" pc="268439159" symbol="setBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="42" lineNum="204" pc="268439195" symbol="setBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="42" lineNum="205" pc="268439242" symbol="setBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="42" lineNum="206" pc="268439242" symbol="setBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="42" lineNum="207" pc="268439279" symbol="setBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="43" lineNum="214" pc="268439341" symbol="deleteBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="43" lineNum="215" pc="268439345" symbol="deleteBackgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="44" lineNum="218" pc="268439362" symbol="backgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="44" lineNum="219" pc="268439366" symbol="backgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="44" lineNum="220" pc="268439382" symbol="backgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="44" lineNum="221" pc="268439391" symbol="backgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="44" lineNum="222" pc="268439400" symbol="backgroundEvent"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="45" lineNum="225" pc="268439417" symbol="requestUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="45" lineNum="226" pc="268439421" symbol="requestUpdate"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="46" lineNum="229" pc="268439438" symbol="onSnsr"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="46" lineNum="231" pc="268439442" symbol="onSnsr"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="46" lineNum="232" pc="268439452" symbol="onSnsr"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="46" lineNum="233" pc="268439452" symbol="onSnsr"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="46" lineNum="234" pc="268439465" symbol="onSnsr"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="46" lineNum="237" pc="268439487" symbol="onSnsr"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="46" lineNum="240" pc="268439500" symbol="onSnsr"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="47" lineNum="243" pc="268439517" symbol="onDistance"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="47" lineNum="244" pc="268439521" symbol="onDistance"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="47" lineNum="246" pc="268439525" symbol="onDistance"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="48" lineNum="249" pc="268439542" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="48" lineNum="250" pc="268439546" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="48" lineNum="251" pc="268439565" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="48" lineNum="252" pc="268439590" symbol="onPosition"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="255" pc="268439616" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="256" pc="268439620" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="257" pc="268439640" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="259" pc="268439653" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="260" pc="268439667" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="261" pc="268439680" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="262" pc="268439693" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="263" pc="268439717" symbol="onReceive"/>
+        <entry filename="/media/data/code/mvstudio/code/Garmin/TwelveMinRun/source/TwelveMinRunView.mc" id="49" lineNum="266" pc="268439804" symbol="onReceive"/>
+        <entry filename="Rez" id="55" lineNum="16" pc="268439821" symbol="initialize"/>
+        <entry filename="Rez" id="55" lineNum="17" pc="268439825" symbol="initialize"/>
+        <entry filename="Rez" id="55" lineNum="18" pc="268439843" symbol="initialize"/>
+        <entry filename="Rez" id="55" lineNum="19" pc="268439895" symbol="initialize"/>
+        <entry filename="Rez" id="58" lineNum="36" pc="268439948" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="40" pc="268439960" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="41" pc="268440162" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="42" pc="268440195" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="43" pc="268440247" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="44" pc="268440398" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="45" pc="268440431" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="46" pc="268440483" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="47" pc="268440529" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="48" pc="268440717" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="49" pc="268440750" symbol="MainLayout"/>
+        <entry filename="Rez" id="58" lineNum="52" pc="268440802" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
+        <entry id="17" object="true" symbol="DistanceView"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry id="14" module="true" symbol="AppConstants"/>
-        <entry field="true" id="30" symbol="mTimerDuration"/>
-        <entry id="35" method="true" symbol="startStopTimer"/>
+        <entry id="8389540" method="true" symbol="onTextEntered"/>
+        <entry id="19" module="true" symbol="AppConstants"/>
+        <entry field="true" id="45" symbol="mTimerDuration"/>
+        <entry id="50" method="true" symbol="startStopTimer"/>
         <entry id="8389287" method="true" symbol="saveProperties"/>
-        <entry id="20" object="true" symbol="TwelveMinRunView"/>
+        <entry id="25" object="true" symbol="TwelveMinRunView"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="26" symbol="string_HR"/>
+        <entry field="true" id="41" symbol="string_HR"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
         <entry id="8388631" module="true" symbol="Activity"/>
-        <entry field="true" id="27" symbol="string_distance"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry id="15" object="true" symbol="KeyboardListener"/>
+        <entry field="true" id="42" symbol="string_distance"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry id="8388645" module="true" symbol="Time"/>
-        <entry id="46" object="true" symbol="MainMenu"/>
+        <entry id="14" object="true" symbol="DistanceDelegate"/>
+        <entry id="34" object="true" symbol="MainMenu"/>
         <entry id="8389619" method="true" symbol="onSelect"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8388643" module="true" symbol="Sensor"/>
-        <entry field="true" id="31" symbol="mTimerStartTime"/>
+        <entry field="true" id="46" symbol="mTimerStartTime"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
-        <entry id="13" object="true" symbol="TwelveMinRunDelegate"/>
-        <entry field="true" id="19" symbol="TIMER_DURATION_DEFAULT"/>
+        <entry id="18" object="true" symbol="TwelveMinRunDelegate"/>
+        <entry field="true" id="24" symbol="TIMER_DURATION_DEFAULT"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="47" method="true" symbol="MainLayout"/>
+        <entry id="35" method="true" symbol="MainLayout"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="34" method="true" symbol="stopRecording"/>
+        <entry id="49" method="true" symbol="stopRecording"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="8388638" module="true" symbol="ActivityRecording"/>
-        <entry field="true" id="33" symbol="mUpdateTimer"/>
-        <entry field="true" id="18" symbol="TIMER_PAUSE_TIME_KEY"/>
+        <entry field="true" id="48" symbol="mUpdateTimer"/>
+        <entry id="8389098" method="true" symbol="onTap"/>
+        <entry field="true" id="23" symbol="TIMER_PAUSE_TIME_KEY"/>
         <entry field="true" id="8389115" symbol="mMessage"/>
-        <entry field="true" id="52" symbol="WATCH_ID"/>
+        <entry field="true" id="40" symbol="WATCH_ID"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry id="40" method="true" symbol="onSnsr"/>
-        <entry field="true" id="51" symbol="AppName"/>
-        <entry field="true" id="23" symbol="mInitialLocation"/>
+        <entry id="55" method="true" symbol="onSnsr"/>
+        <entry field="true" id="39" symbol="AppName"/>
+        <entry field="true" id="28" symbol="mInitialLocation"/>
         <entry id="8388890" symbol="sport"/>
         <entry field="true" id="8388892" symbol="name"/>
+        <entry field="true" id="16" symbol="globalText"/>
         <entry id="8390146" module="true" symbol="Background"/>
-        <entry id="54" symbol="item_2"/>
-        <entry id="53" symbol="item_1"/>
-        <entry field="true" id="45" symbol="LauncherIcon"/>
-        <entry id="37" method="true" symbol="setBackgroundEvent"/>
+        <entry id="59" symbol="item_2"/>
+        <entry id="58" symbol="item_1"/>
+        <entry field="true" id="33" symbol="LauncherIcon"/>
+        <entry id="52" method="true" symbol="setBackgroundEvent"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
-        <entry id="39" method="true" symbol="backgroundEvent"/>
-        <entry field="true" id="49" symbol="menu_label_2"/>
+        <entry id="54" method="true" symbol="backgroundEvent"/>
+        <entry field="true" id="37" symbol="menu_label_2"/>
         <entry id="8389081" method="true" symbol="onBack"/>
-        <entry field="true" id="48" symbol="menu_label_1"/>
+        <entry field="true" id="36" symbol="menu_label_1"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="16" symbol="TIMER_DURATION_KEY"/>
+        <entry field="true" id="21" symbol="TIMER_DURATION_KEY"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry field="true" id="32" symbol="mTimerPauseTime"/>
+        <entry field="true" id="47" symbol="mTimerPauseTime"/>
+        <entry id="8389537" object="true" symbol="TextPicker"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="17" symbol="TIMER_START_TIME_KEY"/>
-        <entry field="true" id="28" symbol="string_timer"/>
-        <entry id="36" method="true" symbol="resetTimer"/>
+        <entry field="true" id="22" symbol="TIMER_START_TIME_KEY"/>
+        <entry field="true" id="43" symbol="string_timer"/>
+        <entry id="51" method="true" symbol="resetTimer"/>
         <entry id="8389026" method="true" symbol="requestUpdate"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="8389348" symbol="font"/>
-        <entry field="true" id="21" symbol="mTimerView"/>
+        <entry field="true" id="26" symbol="mTimerView"/>
         <entry id="8390170" method="true" symbol="onBackgroundData"/>
         <entry id="8389347" symbol="color"/>
         <entry field="true" id="8388651" symbol="session"/>
         <entry id="8390169" method="true" symbol="getServiceDelegate"/>
         <entry id="8390148" method="true" symbol="onTemporalEvent"/>
-        <entry id="24" method="true" symbol="onPosition"/>
-        <entry field="true" id="25" symbol="mParentView"/>
+        <entry id="29" method="true" symbol="onPosition"/>
+        <entry field="true" id="30" symbol="mParentView"/>
         <entry id="11" method="true" symbol="objectStoreGet"/>
-        <entry id="44" module="true" symbol="Layouts"/>
-        <entry id="15" object="true" symbol="BackgroundTimerServiceDelegate"/>
-        <entry field="true" id="50" symbol="prompt"/>
+        <entry id="32" module="true" symbol="Layouts"/>
+        <entry id="20" object="true" symbol="BackgroundTimerServiceDelegate"/>
+        <entry field="true" id="38" symbol="prompt"/>
         <entry id="12" method="true" symbol="objectStorePut"/>
-        <entry id="38" method="true" symbol="deleteBackgroundEvent"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="53" method="true" symbol="deleteBackgroundEvent"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="22" symbol="mBackgroundData"/>
-        <entry id="41" method="true" symbol="onDistance"/>
+        <entry field="true" id="27" symbol="mBackgroundData"/>
+        <entry id="56" method="true" symbol="onDistance"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry id="43" module="true" symbol="Menus"/>
-        <entry field="true" id="29" symbol="activity_info"/>
+        <entry id="31" module="true" symbol="Menus"/>
+        <entry field="true" id="44" symbol="activity_info"/>
         <entry id="10" object="true" symbol="TwelveMinRunApp"/>
-        <entry id="42" method="true" symbol="onReceive"/>
+        <entry id="57" method="true" symbol="onReceive"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389541" method="true" symbol="onCancel"/>
         <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="13" symbol="lastText"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435532" name="state" stackId="1" startPc="268435479"/>
-        <entry endPc="268435685" name="state" stackId="1" startPc="268435532"/>
-        <entry endPc="268435734" name="data" stackId="1" startPc="268435685"/>
-        <entry endPc="268435807" name="mInitialLocation" stackId="2" startPc="268435738"/>
-        <entry endPc="268435808" name="info" stackId="1" startPc="268435734"/>
-        <entry endPc="268436196" name="value" stackId="3" startPc="268436112"/>
-        <entry endPc="268436197" name="defaultValue" stackId="2" startPc="268436100"/>
-        <entry endPc="268436197" name="key" stackId="1" startPc="268436100"/>
-        <entry endPc="268436239" name="key" stackId="1" startPc="268436197"/>
-        <entry endPc="268436239" name="value" stackId="2" startPc="268436197"/>
-        <entry endPc="268436272" name="view" stackId="1" startPc="268436239"/>
-        <entry endPc="268436935" name="backgroundRan" stackId="1" startPc="268436583"/>
-        <entry endPc="268437136" name="dc" stackId="1" startPc="268437060"/>
-        <entry endPc="268438027" name="timerString" stackId="2" startPc="268437140"/>
-        <entry endPc="268438027" name="elapsed" stackId="4" startPc="268437140"/>
-        <entry endPc="268438027" name="timerValue" stackId="3" startPc="268437140"/>
-        <entry endPc="268438027" name="minutes" stackId="5" startPc="268437140"/>
-        <entry endPc="268438027" name="textColor" stackId="7" startPc="268437140"/>
-        <entry endPc="268438027" name="seconds" stackId="6" startPc="268437140"/>
-        <entry endPc="268438027" name="distance" stackId="8" startPc="268437140"/>
-        <entry endPc="268438028" name="dc" stackId="1" startPc="268437136"/>
-        <entry endPc="268438292" name="now" stackId="1" startPc="268438032"/>
-        <entry endPc="268438614" name="info" stackId="2" startPc="268438559"/>
-        <entry endPc="268438654" name="time" stackId="1" startPc="268438476"/>
-        <entry endPc="268438734" name="data" stackId="1" startPc="268438679"/>
-        <entry endPc="268438833" name="HR" stackId="2" startPc="268438759"/>
-        <entry endPc="268438833" name="bucket" stackId="3" startPc="268438759"/>
-        <entry endPc="268438834" name="sensor_info" stackId="1" startPc="268438755"/>
-        <entry endPc="268438858" name="Distance" stackId="2" startPc="268438838"/>
-        <entry endPc="268438859" name="info" stackId="1" startPc="268438834"/>
-        <entry endPc="268439044" name="i" stackId="3" startPc="268438960"/>
-        <entry endPc="268439044" name="keys" stackId="2" startPc="268438910"/>
-        <entry endPc="268439064" name="args" stackId="1" startPc="268438859"/>
-        <entry endPc="268440082" name="rez_cmp_local_bitmap_LapExcess_fontHeight" stackId="5" startPc="268439203"/>
-        <entry endPc="268440082" name="rez_cmp_local_bitmap_IdCountdownTimer" stackId="2" startPc="268439203"/>
-        <entry endPc="268440082" name="rez_cmp_local_bitmap_DistTotalHR_fontHeight" stackId="7" startPc="268439203"/>
-        <entry endPc="268440082" name="rez_cmp_local_bitmap_IdCountdownTimer_fontHeight" stackId="3" startPc="268439203"/>
-        <entry endPc="268440082" name="rez_cmp_local_bitmap_LapExcess" stackId="4" startPc="268439203"/>
-        <entry endPc="268440082" name="rez_cmp_local_bitmap_DistTotalHR" stackId="6" startPc="268439203"/>
-        <entry endPc="268440083" name="dc" stackId="1" startPc="268439191"/>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435589" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435638" name="data" stackId="1" startPc="268435589"/>
+        <entry endPc="268435711" name="mInitialLocation" stackId="2" startPc="268435642"/>
+        <entry endPc="268435712" name="info" stackId="1" startPc="268435638"/>
+        <entry endPc="268436100" name="value" stackId="3" startPc="268436016"/>
+        <entry endPc="268436101" name="defaultValue" stackId="2" startPc="268436004"/>
+        <entry endPc="268436101" name="key" stackId="1" startPc="268436004"/>
+        <entry endPc="268436143" name="key" stackId="1" startPc="268436101"/>
+        <entry endPc="268436143" name="value" stackId="2" startPc="268436101"/>
+        <entry endPc="268436307" name="key" stackId="1" startPc="268436170"/>
+        <entry endPc="268436414" name="evt" stackId="1" startPc="268436307"/>
+        <entry endPc="268436481" name="changed" stackId="2" startPc="268436441"/>
+        <entry endPc="268436481" name="text" stackId="1" startPc="268436441"/>
+        <entry endPc="268436531" name="dc" stackId="1" startPc="268436526"/>
+        <entry endPc="268436809" name="dc" stackId="1" startPc="268436536"/>
+        <entry endPc="268436847" name="view" stackId="1" startPc="268436814"/>
+        <entry endPc="268437510" name="backgroundRan" stackId="1" startPc="268437158"/>
+        <entry endPc="268437711" name="dc" stackId="1" startPc="268437635"/>
+        <entry endPc="268438602" name="timerString" stackId="2" startPc="268437715"/>
+        <entry endPc="268438602" name="elapsed" stackId="4" startPc="268437715"/>
+        <entry endPc="268438602" name="timerValue" stackId="3" startPc="268437715"/>
+        <entry endPc="268438602" name="minutes" stackId="5" startPc="268437715"/>
+        <entry endPc="268438602" name="textColor" stackId="7" startPc="268437715"/>
+        <entry endPc="268438602" name="seconds" stackId="6" startPc="268437715"/>
+        <entry endPc="268438602" name="distance" stackId="8" startPc="268437715"/>
+        <entry endPc="268438603" name="dc" stackId="1" startPc="268437711"/>
+        <entry endPc="268438975" name="now" stackId="1" startPc="268438607"/>
+        <entry endPc="268439297" name="info" stackId="2" startPc="268439242"/>
+        <entry endPc="268439337" name="time" stackId="1" startPc="268439159"/>
+        <entry endPc="268439417" name="data" stackId="1" startPc="268439362"/>
+        <entry endPc="268439516" name="HR" stackId="2" startPc="268439442"/>
+        <entry endPc="268439516" name="bucket" stackId="3" startPc="268439442"/>
+        <entry endPc="268439517" name="sensor_info" stackId="1" startPc="268439438"/>
+        <entry endPc="268439541" name="Distance" stackId="2" startPc="268439521"/>
+        <entry endPc="268439542" name="info" stackId="1" startPc="268439517"/>
+        <entry endPc="268439615" name="mInitialLocation" stackId="2" startPc="268439546"/>
+        <entry endPc="268439616" name="info" stackId="1" startPc="268439542"/>
+        <entry endPc="268439801" name="i" stackId="3" startPc="268439717"/>
+        <entry endPc="268439801" name="keys" stackId="2" startPc="268439667"/>
+        <entry endPc="268439821" name="args" stackId="1" startPc="268439616"/>
+        <entry endPc="268440839" name="rez_cmp_local_bitmap_LapExcess_fontHeight" stackId="5" startPc="268439960"/>
+        <entry endPc="268440839" name="rez_cmp_local_bitmap_IdCountdownTimer" stackId="2" startPc="268439960"/>
+        <entry endPc="268440839" name="rez_cmp_local_bitmap_DistTotalHR_fontHeight" stackId="7" startPc="268439960"/>
+        <entry endPc="268440839" name="rez_cmp_local_bitmap_IdCountdownTimer_fontHeight" stackId="3" startPc="268439960"/>
+        <entry endPc="268440839" name="rez_cmp_local_bitmap_LapExcess" stackId="4" startPc="268439960"/>
+        <entry endPc="268440839" name="rez_cmp_local_bitmap_DistTotalHR" stackId="6" startPc="268439960"/>
+        <entry endPc="268440840" name="dc" stackId="1" startPc="268439948"/>
     </localVars>
     <annotations/>
     <functions>
@@ -356,6 +410,45 @@
         <functionEntry accessMode="public" name="objectStorePut">
             <param id="key"/>
             <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DistanceDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="DistanceDelegate">
+            <param id="key"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="DistanceDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="KeyboardListener">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTextEntered" parent="KeyboardListener">
+            <param id="text"/>
+            <param id="changed"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCancel" parent="KeyboardListener">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DistanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="DistanceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="DistanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DistanceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="DistanceView">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="TwelveMinRunDelegate">
@@ -419,6 +512,10 @@
             <param id="info"/>
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="TwelveMinRunView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="onReceive" parent="TwelveMinRunView">
             <param id="args"/>
             <documentation/>
@@ -435,18 +532,21 @@
     </functions>
     <dataEntryOffsetMappings>
         <dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="278" parentId="globals" symbolId="BackgroundTimerServiceDelegate" type="class"/>
-        <dataEntry offset="333" parentId="globals" symbolId="TwelveMinRunApp" type="class"/>
-        <dataEntry offset="958" parentId="globals" symbolId="TwelveMinRunDelegate" type="class"/>
-        <dataEntry offset="1029" parentId="globals" symbolId="TwelveMinRunView" type="class"/>
-        <dataEntry offset="1252" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="1331" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="1370" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="1409" parentId="Menus" symbolId="MainMenu" type="class"/>
-        <dataEntry offset="1456" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="1487" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="1518" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="1557" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="1620" parentId="globals" symbolId="AppConstants" type="module"/>
+        <dataEntry offset="334" parentId="globals" symbolId="TwelveMinRunApp" type="class"/>
+        <dataEntry offset="453" parentId="globals" symbolId="BackgroundTimerServiceDelegate" type="class"/>
+        <dataEntry offset="1037" parentId="globals" symbolId="DistanceView" type="class"/>
+        <dataEntry offset="1116" parentId="globals" symbolId="TwelveMinRunDelegate" type="class"/>
+        <dataEntry offset="1187" parentId="globals" symbolId="DistanceDelegate" type="class"/>
+        <dataEntry offset="1250" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="1329" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="1368" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="1407" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="1454" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1485" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1516" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1555" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1618" parentId="globals" symbolId="AppConstants" type="module"/>
+        <dataEntry offset="1657" parentId="globals" symbolId="KeyboardListener" type="class"/>
+        <dataEntry offset="1720" parentId="globals" symbolId="TwelveMinRunView" type="class"/>
     </dataEntryOffsetMappings>
 </debugInfo>
